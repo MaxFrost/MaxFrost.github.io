@@ -16,7 +16,7 @@ Another goal is to _always_ have some sort of code in every single post. If it's
 
 And for your amusement, a quick function that replicates the password information from `net user $user /domain` but as a powershell function!
 
-``` PowerShell
+``` powershell
 function Get-ADUserPWStat {
     param(
         [string]$User
