@@ -4,7 +4,7 @@ description: 'Powershell lover, Windows Sysadmin, and most recently, Devops Engi
 url: 'http://maxfrost.github.io/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'jamesmaxson'
 
 author:
   name: 'James Maxson'
