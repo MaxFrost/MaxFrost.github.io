@@ -9,7 +9,7 @@ baseurl: ''
 author:
   name: 'James Maxson'
   email: MaximumFrost@gmail.com
-  mastodon_username: @MaxFrost
+  mastodon_username: '@MaxFrost'
   github_username:  MaxFrost
   linkedin_username: james-maxson-36349112
 
