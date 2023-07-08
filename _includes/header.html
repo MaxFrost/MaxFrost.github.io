@@ -37,6 +37,16 @@
               </li>
             {% endif %}
 
+            {% if site.author.mastodon_username %}
+              <!-- Mastodon -->
+              <li class="navigation__item">
+                <a href="https://mastodon.social/{{ site.author.mastodon_username }}" title="@{{ site.author.mastodon_username }} on Mastodon" target="_blank" rel="me">
+                  <i class="icon icon-social-mastodon"></i>
+                  <span class="label">Mastodon</span>
+                </a>
+              </li>
+            {% endif %}
+
             {% if site.author.facebook_username %}
               <!-- Facebook -->
               <li class="navigation__item">
