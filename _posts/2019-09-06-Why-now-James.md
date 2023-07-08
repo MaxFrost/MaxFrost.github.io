@@ -4,6 +4,7 @@ tags:
     - life
     - technology
 date: 2019-09-05 21:04:44
+comments: true
 ---
 
 ## Introduction

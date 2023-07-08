@@ -8,6 +8,7 @@ tags:
     - linux
     - windows
     - rant
+comments: true
 ---
 
 This is me mostly about why it took so long for Microsoft to even begin thinking about catching up to linux in the command line world. I love the recent work that has happened to Powershell, CMD, conhost, and most recently Windows Terminal, but honestly, it feels like it's 10 years too late.
